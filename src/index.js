@@ -7,5 +7,6 @@ list1.prepend(2);
 list1.size();
 list1.first();
 list1.tail();
+list1.at(1);
 
-console.log(list1);
+list1.toString();
